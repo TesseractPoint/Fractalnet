@@ -14,6 +14,7 @@ TODO: Write usage instructions
 1. Andrew Denio
 2. Joe Greene
 3. Tony Vaughn
+
 ## History
 TODO: Write history
 ## Credits
